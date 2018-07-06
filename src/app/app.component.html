@@ -1,0 +1,20 @@
+<div fxLayout="column">
+
+  <div class="header" fxLayout="row" fxLayoutAlign="end center">
+    <img src="/assets/possessed.svg" alt="">
+  </div>
+
+  <div fxLayout="column" fxLayoutAlign="start stretch" >
+    <nav mat-tab-nav-bar fxLayoutAlign="end center">
+      <a mat-tab-link *ngFor="let link of links"
+        (click)="activeLink = link"
+        [active]="activeLink == link">
+        {{link}}
+      </a>
+    </nav>
+  </div>
+  
+
+  <router-outlet></router-outlet>
+
+</div>
