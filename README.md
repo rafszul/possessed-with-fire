@@ -1,8 +1,8 @@
-# possessed-with-fire
+# possessed with fire
 
-is a game in the making. and it is a child of digital kind of love. 
+is a game in the making and a child of digital kind of love...
 
-love for a file format - svg
+love for a file format, simple yet beautiful shapes and music.
 
 for some visual feel click the graphic below
 
@@ -55,3 +55,7 @@ http://bl.ocks.org/rafszul/efb1d4a4428d651c4c5e
 while other [graphics](http://padlet.com/rafszul/shadows) already went through the meat-grinder and are awaiting further work in [/img folder](img/shadows-svg) of this repo.
 
 credits and info re origin of the assets can be found in previously mentioned [efb1d4a4428d651c4c5e](https://gist.github.com/rafszul/efb1d4a4428d651c4c5e) as well as in [credits.md](credits.md) and [canvas-exploration-credits.md](canvas-exploration-credits.md)
+
+
+
+[![possessed with fire-possessed-splash](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/possessed.svg)](https://codepen.io/collection/XJGpgy/)
