@@ -8,22 +8,6 @@ for some visual feel click the graphic below
 
 [![possessed with fire-possessed-splash](https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/mountains-584280.png-01_copy.svg)](http://codepen.io/collection/XJGpgy/)
 
-or see some experiments with canvas and sprite sheet animations at http://possessed.surge.sh/ to inspect the code got to the initial repo at [rafszul/possessed](https://github.com/rafszul/possessed)
-
-the description below comes from this repo
-
-the game is in s very early stage of development and at the moment it all seems like gathering of the assets and lots and lots of zombie coding.
-
-some materials and graphical elements which might inspire some of the artwork that eventually will end up as part of the game can be seen here:
-
-http://bl.ocks.org/rafszul/efb1d4a4428d651c4c5e
-
-while other [graphics](http://padlet.com/rafszul/shadows) already went through the meat-grinder and are awaiting further work in [/img folder](img/shadows-svg) of this repo.
-
-
-
-credits and info re origin of the assets can be found in previously mentioned [efb1d4a4428d651c4c5e](https://gist.github.com/rafszul/efb1d4a4428d651c4c5e) as well as in [credits.md](credits.md) and [canvas-exploration-credits.md](canvas-exploration-credits.md)
-
 ---
 
 ### UPDATE 06.06.2018:
@@ -55,3 +39,19 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+---
+
+to see some earlier experiments with canvas and sprite animations go to the repo that started it all at [rafszul/possessed](https://github.com/rafszul/possessed). the demo here: http://possessed.surge.sh/ 
+
+and here some earlier text:
+
+the game is in s very early stage of development and at the moment it all seems like gathering of the assets and lots and lots of zombie coding.
+
+some materials and graphical elements which might inspire some of the artwork that eventually will end up as part of the game can be seen here:
+
+http://bl.ocks.org/rafszul/efb1d4a4428d651c4c5e
+
+while other [graphics](http://padlet.com/rafszul/shadows) already went through the meat-grinder and are awaiting further work in [/img folder](img/shadows-svg) of this repo.
+
+credits and info re origin of the assets can be found in previously mentioned [efb1d4a4428d651c4c5e](https://gist.github.com/rafszul/efb1d4a4428d651c4c5e) as well as in [credits.md](credits.md) and [canvas-exploration-credits.md](canvas-exploration-credits.md)
