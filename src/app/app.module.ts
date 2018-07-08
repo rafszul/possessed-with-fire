@@ -10,7 +10,7 @@ import { NgModule } from '@angular/core';
 //   MatTabsModule
 //  } from '@angular/material';
 
-import { AppRoutingModule } from './app-routing.module';
+// import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { CoreModule } from './core/core.module';
 
@@ -26,7 +26,7 @@ import { CoreModule } from './core/core.module';
     // MatButtonModule,
     // MatToolbarModule,
     // MatTabsModule,
-    AppRoutingModule
+    // AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

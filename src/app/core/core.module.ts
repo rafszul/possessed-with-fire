@@ -11,7 +11,7 @@ import {
   MatTabsModule
  } from '@angular/material';
 
-import { CoreRoutingModule } from './core-routing.module';
+// import { CoreRoutingModule } from './core-routing.module';
 
 @NgModule({
   imports: [
@@ -20,7 +20,7 @@ import { CoreRoutingModule } from './core-routing.module';
     MatButtonModule,
     MatToolbarModule,
     MatTabsModule,
-    CoreRoutingModule
+    // CoreRoutingModule
   ],
   declarations: [],
   exports: [
